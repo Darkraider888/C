@@ -18,4 +18,4 @@ These programs are mostly for personal practice and experimentation.
 
 1. 📥 Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/c-practice.git
+   git clone (https://github.com/Darkraider888/C).git
